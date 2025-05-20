@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nabil.cheikh13@hotmail.com
+	name = Nabil Cheikh
